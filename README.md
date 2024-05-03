@@ -1,5 +1,3 @@
-Nothing because this repo is suck  
-
 ![review image](https://github.com/annguyen2k8/ChatApp-py/blob/master/Capture.PNG?raw=true)
 
 Example:  
